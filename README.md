@@ -1,7 +1,7 @@
 ## Thank you for stopping by! 👋
 
 ### ⚡ About Me
-I'm a B.S. Computer Science graduate working on completing my M.S. in Mathematics by May 2021. I enjoy working on large-scale projects and learning new material. 
+I'm a B.S. Computer Science graduate working on completing a M.S. in Mathematics by May 2021. I enjoy working on large-scale projects and learning new material. 
 
 
 ### 🌱 Current Project(s):
