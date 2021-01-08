@@ -1,4 +1,16 @@
-### Hi there 👋
+## Thank you for stopping by! 👋
+
+### ⚡ About Me
+I'm a B.S. Computer Science graduate working on completing my M.S. in Mathematics by May 2021. I enjoy working on large-scale projects and learning new material. 
+
+
+### 🌱 Current Project(s):
+
+* Investigate the cost-effectiveness of social distancing and testing control measures in reducing deaths due to COVID-19. 
+* Continue working on the Data Science Career Track on Codecademy.
+
+
+
 
 <!--
 **LuisEVT/LuisEVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
