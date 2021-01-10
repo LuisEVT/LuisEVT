@@ -7,7 +7,7 @@ I'm a B.S. Computer Science graduate working on completing a M.S. in Mathematics
 ### 🌱 Current Project(s):
 
 * Investigate the cost-effectiveness of social distancing and testing control measures in reducing deaths due to COVID-19. 
-* Continue working on the Data Science Career Track on Codecademy.
+* Continue working on the Data Science with Python on DataCamp.
 
 
 
