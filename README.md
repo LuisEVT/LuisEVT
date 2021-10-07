@@ -1,15 +1,19 @@
 ## Thank you for stopping by! 👋
 
 ### ⚡ About Me
-I'm a B.S. Computer Science graduate working on completing a M.S. in Mathematics by May 2021. I enjoy working on large-scale projects and learning new material. 
+* Result-oriented programmer with an analytical driven-minset. Dedicated to achieve demanding development objectives according to tight schedules while producing impeccable code. Continuously learning and improving through each project.
 
+* M.S. Mathematics
+* B.S. Computer Science
 
-### 🌱 Current Project(s):
+### 🌱 Finished Project(s):
 
-* Investigate the cost-effectiveness of social distancing and testing control measures in reducing deaths due to COVID-19. 
-* Continue working on the Data Science with Python on DataCamp.
+* Implement algorithm design to create a system that produced a feasible, cost-minimizing charging station placement in agricultural regions and produce a drone path specification to traverse each charging station in a specified field.
+* Co-design and implemented large-scale simulations on the dynamics of the spread of Covid-19 and the relationship with different control measures and strategies.
+* Transition a LaTex-based textbook to a new mark-up language, preText, that is especially designed for online mathematics textbooks.
 
-
+### Website(s)
+* 🌎 Linkedin: https://www.linkedin.com/in/LuisEVT
 
 
 <!--
